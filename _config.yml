@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            BlackDoc
 tagline:          Black Theme for Jekyll
 description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
-url:              "https://lukesturgess.github.io"
-baseurl:          '/blog/'
+url:              "https://bettereveryday.github.io"
+baseurl:          '/'
 
 author:
-  name:           'Karlo Espiritu'
-  url:            https://twitter.com/karloespiritu
+  name:           'Luke Sturgess-Durden'
+  url:            https://twitter.com/lukesturg
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          1.0.0
 
 github:
-  repo:           https://github.com/karloespiritu/blackdoc
+  repo:           https://github.com/bettereveryday
