@@ -7,9 +7,9 @@ title: Overview
 
 ## SUMMARY OF SPRINTS:
 
-1. Introduction to Mayden [Sep 14th-25th]
+1. [Introduction to Mayden] (/sprint1) [Sep 14th-25th]
 
-2. Frontend: HTML & CSS [Sep 28th - Oct 9th]
+2. [Frontend: HTML & CSS] (/sprint2) [Sep 28th - Oct 9th]
 
 3. Scrum + Software Developer Essentials + Security [Oct 12th-23rd]
 
