@@ -52,12 +52,12 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 a {
-  color: #ffeb99;
+  color: #D11D05;
   transition: color ease 0.3s;
 }
 
 a:hover {
-  color: #caad00;
+  color: #EB01A5;
 }
 
 .btn {
@@ -180,6 +180,8 @@ tbody tr:nth-child(odd) th {
   background-color: #000;
   overflow: auto;
 }
+
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -193,12 +195,12 @@ tbody tr:nth-child(odd) th {
 
 /* Sidebar links */
 .sidebar a {
-  color: #caad00;
+  color: #B00B1E;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #caad00;
+  color: #B00B1E;
   margin-top: 0;
   font-family: 'Noto Serif', serif;
   font-size: 2.25rem;
@@ -274,7 +276,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #caad00;
+  color: #B00B1E;
 }
 
 /*
@@ -406,4 +408,3 @@ a.sidebar-nav-item:focus {
 ::-webkit-scrollbar-thumb:hover {
   background:#7d7d7d;
 }
-

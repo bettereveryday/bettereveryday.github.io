@@ -61,6 +61,10 @@
 .highlight .vi { color: #9E5BBC } /* Name.Variable.Instance */
 .highlight .il { color: #f60 } /* Literal.Number.Integer.Long */
 
+.academy_logo:hover {
+  width: 50px;
+}
+
 .css .o,
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
