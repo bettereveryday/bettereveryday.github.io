@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Overview
+title: Sprint 1
 ---
 
 **SPRINT 1 - INTRODUCTION TO MAYDEN**
