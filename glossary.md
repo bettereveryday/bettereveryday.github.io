@@ -7,8 +7,6 @@ title: Glossary
   A useful Glossary of terms and cheat in use in the Mayden Academy.
 </p>
 
-## About BlackDoc Theme
-
 Some relevant information about this project:
 
 * Some useful shortcuts: [Shortcuts](https://docs.google.com/spreadsheets/d/1nLUm5TwHTu94OETR_1SSJCxmFivlIhWl02V4Lm_OHVg/edit?usp=sharing)
