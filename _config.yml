@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            BlackDoc
-tagline:          Black Theme for Jekyll
-description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
+title:            BetterEveryDay
+tagline:          A Blog for the ever improving developers at Mayden Academy
+description:      "The secret to mastery is constant improvement"
 url:              "https://bettereveryday.github.io"
 baseurl:          '/'
 
