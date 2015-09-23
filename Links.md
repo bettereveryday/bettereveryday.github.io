@@ -29,3 +29,5 @@ title: Links
 * <a href="https://www.youtube.com/watch?v=Z9hyESCLm8k"> YouTube </a>
 
 * <a href="http://sqlzoo.net/wiki/SQL_Tutorial"> SQLZ </a>
+
+* [How to design programs](http://www.htdp.org/)
