@@ -1,11 +1,4 @@
----
-layout: page
-title: Sprint 2
----
-
 **SPRINT 2 - HTML & CSS**
-
-__Sep 28th - Oct 9th__
 
 *Learning Objectives*
 
@@ -17,65 +10,49 @@ __Sep 28th - Oct 9th__
 
 4. Abiltity to style HTML using CSS
 
-5. Understand the differenct between static and dynamic websites.
+5. Understanding of the DOm and document Flow
+
+6. Understand the differenct between static and dynamic websites.
+
+7. Understand common CSS browser bugs
 
 *Project(s)*
 
-* Build your own personal home page with an About Me, CV and contact form.
+* Refactor front end code of Belbin project
 
-* Design a unique layout & look for a blog.
-
-* Design a league table using table, tr, td tags.
-
-* [CHALLENGE] [WATCH] [Android Logo in HTML/CSS](http://thecodeplayer.com/walkthrough/css3-android-logo)
-and then try and do the same to reproduce the Mayden Academy logo with just HTML + CSS (No images!)
+* Design and build a unique look for your jekyll blog with About me and Contact page.
 
 *Lessons*
 
-Day 1 - Intro {@MO}
+1. Introduction to Markup and HTML (HTML4 vs HTML5)
+	- https://css-tricks.com/dom/
+ 
+2. Understanding different Tag types (div vs section)
+	- http://www.w3schools.com/tags/
+	- http://www.w3.org/TR/html/
 
-Days 2 & 3 - Code Academy
+3. Introduction to CSS (basic syntax, inline styles vs style or css page)
+	- 
 
-Day 4 - Review / Start on project. {@MO}
+4. Understanding CSS styling
+	- Talk on UI and UX
+	- https://css-tricks.com/
+	- Document flow: http://webdesign.tutsplus.com/articles/quick-tip-utilizing-normal-document-flow--webdesign-8199
 
-Day 5 - Net-tuts course
+5. Reviewing Belbin project
 
-Weekend - either continue on net-tuts or work on project
+6. HTML & CSS Basics (using browser inspector)
+    - https://www.codecademy.com/tracks/web
 
-Day 6 pm - project {@MO}
+7. Using selectors properly (Pseudo selectors, class vs Id)
 
-Day 7 Treehouse
+8. Common gotchas (cross browser issues)
+ 	- http://caniuse.com/
 
-Day 8 morning Treehouse / pm project
+9. iFrames and embedding
 
-Day 9 project / CHALLENGE {@MO .5}
+10. Refactoring the Belbin project
 
-Day 10 Review / test / feedback. {@MO .5}
-
-1. Introduction to Markup Languages {@LSD, MO}
-
-2. Understanding HTML - {@CA}
-
-3. Text modifying HTML Tags
-
-4. Layout modifying HTML Tags
-
-5. Introduction to CSS (basic syntax, inline styles vs style or css page)
-
-6. Common CSS text styling properties
-
-7. Element style tags (e.g backgrounds and borders)
-
-8. Pseudo class selectors
-
-9. CSS Layout
-
-10. Designing a Blog layout
-
-11. Form Elements
-
-12. Complex Tables / Div layouts
-
-13. iFrames and embedding
+11. Building personal blog
 
 * * *
