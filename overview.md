@@ -13,24 +13,26 @@ title: Overview
 
 3. Scrum + Software Developer Essentials + Security [Oct 12th-23rd]
 
-4. Basic PHP + Wordpress [Oct 26th - Nov 6th] {2nd-6th optional half term holiday/catch up}
+Catch up / holiday Sprint [Oct 26th - 30th]
 
-5. Databases and SQL [Nov 9th - 20th]
+4. Basic PHP + Wordpress [Nov 2nd - 13th]
 
-6. Frontend Coding: Basic Javascript [Nov 23rd - Dec 4th]
+5. Databases and SQL [Nov 16th - 27th]
 
-8. jQuery [Dec 7th - 18th]
+6. Front End: Basic Javascript [Nov 30th - Dec 11th]
 
-9. Catch up / holiday Sprint [Dec 21st - Jan 1st]
+7. jQuery [Dec 14th - 18th]
 
-10. Advanced PHP [Jan 4th - 15th]
+Catch up / holiday Sprint [Dec 21st - Jan 1st]
 
-11. MVC Frameworks [Jan 18th - 29th]
+8. Advanced PHP [Jan 4th - 15th]
 
-12. Javascript Frameworks: Angular.js [Feb 1st - 12th]
+9. MVC Frameworks [Jan 18th - 29th]
 
-13. Catch up / holiday [Feb 15th - 26th]
+10. Javascript Frameworks: Angular.js [Feb 1st - 12th]
 
-14. Project [Feb 29th - Mar 11th]
+11. Catch up / holiday [Feb 15th - 26th]
 
-15. Integration trial in Scrum teams? [Mar 14th - Apr 1st]
+12. Project [Feb 29th - Mar 11th]
+
+13. Integration trial in Scrum teams? [Mar 14th - Apr 1st]
