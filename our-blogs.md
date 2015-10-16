@@ -11,3 +11,4 @@ Here are the links to our blogs!
 4. [Marta's blog](http://martapleszynska.github.io/myblog/)
 5. [Ross's blog](http://infinite-code-monkeys.co.uk)
 6. [Charlie's blog](http://charliecog.github.io/mayden_blog/)
+![chaz](../chaz.png)
