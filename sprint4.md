@@ -1,6 +1,6 @@
 
 # Mayden Academy
-## Sprint 3 - Monday 2nd November - Friday 13th November
+## Sprint 4 - Monday 2nd November - Friday 13th November
 ### PHP & Wordpress
 
 - Mike in all first week.
